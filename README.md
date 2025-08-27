@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Itsuki 👋</h1>
+<h1 align="center">Olá, eu sou Alex Constantino 👋</h1>
 <p align="center">
   <em>Fullstack Developer | Estagiário há 1 ano, JR há 6 meses | Apaixonado por RPG e achocolatado 🍫</em>
 </p>
