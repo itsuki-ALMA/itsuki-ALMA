@@ -25,7 +25,7 @@ Aqui você vai encontrar alguns dos meus projetos, estudos e experimentos 🚀.
 ---
 
 ## 🌍 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-constantino)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-constantino-91106926b)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/itsuki-ALMA)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexconstantino2909@gmail.com)
 
