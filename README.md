@@ -22,11 +22,10 @@
 
 ## 📊 Minhas Estatísticas no GitHub
 <p align="center">
-  <img alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=itsuki-ALMA&show_icons=true&theme=tokyonight" />
+  <img alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=itsuki-ALMA&show_icons=true&theme=tokyonight" height="180" />
+  <img alt="Linguagens Mais Usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsuki-ALMA&layout=compact&theme=tokyonight" height="180" />
 </p>
-<p align="center">
-  <img alt="Linguagens Mais Usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsuki-ALMA&layout=compact&theme=tokyonight" />
-</p>
+
 
 ---
 
